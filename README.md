@@ -2,7 +2,7 @@
 
 
 [Resume](https://Bluewolftechnologiesllc.com/overviews/resume/) 
-is a resume and CV theme for Bluewolf Technologies LLC created by D_CAPTAINKENYA. 
+is a CV theme for Bluewolf Technologies LLC created by D_CAPTAINKENYA. 
 This Resume features a fixed sidebar with content sections about Captain.
 
 It is basically developed using HTML
@@ -60,4 +60,4 @@ of [Bluewolf Technologies LLC](http://bluewolftechnologies.io/).
 
 ## Copyright and License
 
-Copyright 2013-2020 Bluewolf Technologies LLC. Code released under the [MIT] (https://github.com/d-captainkenya/D-captainkenya.github.io/LICENSE) license.
+Copyright 2013-2021 Bluewolf Technologies LLC. Code released under the [MIT] (https://github.com/d-captainkenya/D-captainkenya.github.io/LICENSE) license.
